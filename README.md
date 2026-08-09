@@ -1,4 +1,4 @@
-# pg-roteiro-iniciantes - Um Gui prático para o primeiro mês de estudos com PostgreSQL
+# pg-roteiro-iniciantes - Um Guia prático para o primeiro mês de estudos com PostgreSQL
 
 Este repositório é o complemento para a palestra **"Se o Postgres é o caminho, por onde começar?"**, apresentada na **PGConf Brasil 2026**
 
