@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  pg_estudos:
+    image: postgres:17-alpine
+    container_name: pg_estudos
+    restart: always
+    environment:
+      POSTGRES_USER: estudante
+      POSTGRES_PASSWORD: senhadetestes
+      POSTGRES_DB: lab_postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+volumes:
+  pgdata:
