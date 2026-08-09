@@ -13,7 +13,7 @@ Certifique-se de ter o **Docker** e o **Docker Compose** instalados em sua máqu
 1. Clone este repositório:
 
 ```bash
-git clone [https://github.com/isonux/pg-roteiro-iniciantes.git](https://github.com/isonux/pg-roteiro-iniciantes.git)
+git clone https://github.com/isonux/pg-roteiro-iniciantes.git
 cd pg-roteiro-iniciantes
 ```
 
