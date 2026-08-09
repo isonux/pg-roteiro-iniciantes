@@ -13,9 +13,8 @@ Certifique-se de ter o **Docker** e o **Docker Compose** instalados em sua máqu
 1. Clone este repositório:
 
 ```bash
-   git clone [https://github.com/isonux/pg-roteiro-iniciantes.git](https://github.com/isonux/pg-roteiro-iniciantes.git)
-   cd pg-roteiro-iniciantes
-
+git clone [https://github.com/isonux/pg-roteiro-iniciantes.git](https://github.com/isonux/pg-roteiro-iniciantes.git)
+cd pg-roteiro-iniciantes
 ```
 
 2. Suba o banco de dados PostgreSQL usando o `docker-compose`:
